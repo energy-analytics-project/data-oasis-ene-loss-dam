@@ -41,7 +41,9 @@
         "                    )",
         "        );"
     ],
+    "delay": "5",
     "description": "CAISO OASIS ENE_LOSS DAM",
+    "download_delay_secs": 5,
     "email": "pub+github@zwrob.com",
     "maintainer": "Todd Greenwood-Geer",
     "name": "data-oasis-ene-loss-dam",
