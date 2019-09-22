@@ -1,0 +1,3 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-loss-dam/sql/20190919_20190920_ENE_LOSS_DAM_20190922_11_06_38_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-loss-dam/sql/20190918_20190919_ENE_LOSS_DAM_20190922_11_06_33_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-loss-dam/sql/20190920_20190921_ENE_LOSS_DAM_20190922_11_06_43_v1.sql
